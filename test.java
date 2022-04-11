@@ -13,6 +13,10 @@ public class test {
        obj.sum(10,20);
        System.out.println("hello Moula");
        System.out.println("anagani updated this program");
-obj.sum(7,8);
+
+       obj.sum(7,8);
+       obj.sum(27,27);
+	     System.out.println("Imrana");
+
     }
 }
