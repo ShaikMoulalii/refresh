@@ -14,7 +14,7 @@ public class test {
        System.out.println("hello Moula");
        System.out.println("anagani updated this program");
         obj.sum(27,27);
-        
+        obj.sum(7,8);
 	System.out.println("Imrana");
     }
 }
