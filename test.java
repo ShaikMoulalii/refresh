@@ -12,9 +12,13 @@ public class test {
        test obj=new test();
        obj.sum(10,20);
        System.out.println("hello Moula");
-       System.out.println("anagani updated this program");
+       System.out.println("anagani updated this program"
         obj.sum(27,27);
         obj.sum(7,8);
 	System.out.println("Imrana");
+
+       obj.sum(7,8);
+       obj.sum(27,27);
+	     System.out.println("Imran");
     }
 }
