@@ -12,7 +12,7 @@ public class test {
        test obj=new test();
        obj.sum(10,20);
        System.out.println("hello Moula");
-       System.out.println("anagani updated this program");
+       System.out.println("anagani ruined this program");
 
     }
 }
